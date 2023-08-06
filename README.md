@@ -2,7 +2,7 @@
 
 [![HitCount](https://hits.dwyl.com/fuxin052/115_aria2.svg?style=flat-square)](http://hits.dwyl.com/fuxin052/115_aria2)
 
-**安装地址 https://github.com/fuxin052/115_aria2/raw/main/dist/115pan_aria2.user.js**
+**安装地址 https://github.com/liangxyz/115_aria2/raw/main/dist/115pan_aria2.user.js**
 
 ## 设置：鼠标右键点击按钮可以打开设置界面
 

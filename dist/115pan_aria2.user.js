@@ -7,7 +7,7 @@
 // @icon         https://115.com/web_icon.jpg
 // @match        *://115.com/?ct=file*
 // @connect      115.com
-// @connect      192.168.50.44
+// @connect      192.168.0.34
 // @connect      *
 // @grant        GM.xmlHttpRequest
 // @grant        GM.setValue
